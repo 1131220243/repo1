@@ -10,5 +10,9 @@ public class Demo {
         System.out.println("........");
         System.out.println("cccc");
     }
+    public void test(){
+        int i = 0;
+        i+= 10;
+    }
 
 }
